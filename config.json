@@ -56,6 +56,15 @@
       ]
     },
     {
+      "name": "KNEO SU",
+      "url": "https://su.kneo.one/dns-query",
+      "type": "get",
+      "allowCors": false,
+      "ips": [
+        "su.kneo.one"
+      ]
+    },
+    {
       "name": "AdGuard",
       "url": "https://dns.adguard-dns.com/dns-query",
       "ips": [
